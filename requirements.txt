@@ -1,0 +1,6 @@
+# No external dependencies required — uses Python standard library only!
+# Python 3.10+ recommended
+#
+# Optional enhancements (uncomment to install):
+# colorama==0.4.6   # Cross-platform ANSI colors (Windows support)
+# tqdm==4.66.1      # Progress bar for long scans
